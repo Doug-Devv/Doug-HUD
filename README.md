@@ -18,7 +18,8 @@
 -- Cooldowns and Optimizations
 -- Cooldown between HUD updates to reduce server load.
 
-#-- Developer Integrations
+```
+-- Developer Integrations
 -- Events and exports for server-side customizations.
 -- Example Client Event:
 
@@ -35,4 +36,4 @@ end)
 -- Add stamina and stress indicators.
 -- Customizable HUD themes via config.
 
--- Let me know if you’d like me to flesh this out more or add new features! 🚀
+-- Let me know if you’d like me to flesh this out more or add new features! 🚀```
